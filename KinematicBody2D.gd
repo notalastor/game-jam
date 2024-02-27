@@ -19,7 +19,7 @@ func _physics_process(delta):
 	move_and_slide(m,Vector2.UP)
 	
 	
-
+#thats it...
 # Called every frame. 'delta' is the elapsed time since the previous frame.
 #func _process(delta):
 #	pass
